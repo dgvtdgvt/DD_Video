@@ -1,0 +1,7 @@
+# 项目排除路径
+/gec-common/auth-security/target/
+/gec-common/common-util/target/
+/gec-common/service-util/target/
+/gec-common/target/
+/gec-model/target/
+/gec-service-system/target/
